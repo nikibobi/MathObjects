@@ -5,7 +5,7 @@ namespace MathObjectsLib.Angles
     /// <summary>
     /// Abstract angle class containing angle value
     /// </summary>
-    abstract class Angle
+    public abstract class Angle
     {
         /// <summary>
         /// The PI mathematical constant (aka 3.14)

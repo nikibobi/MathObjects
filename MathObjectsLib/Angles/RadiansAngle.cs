@@ -3,7 +3,7 @@
     /// <summary>
     /// A class witch contains an angle in Radians
     /// </summary>
-    sealed class RadiansAngle : Angle
+    public sealed class RadiansAngle : Angle
     {
         /// <summary>
         /// Creates angle with a value = 0

@@ -5,7 +5,7 @@ using MathObjectsLib.Angles;
 
 namespace MathObjectsLib.Vectors
 {
-    class Vector
+    public class Vector
     {
         private double value;
         private double angle; //in radians

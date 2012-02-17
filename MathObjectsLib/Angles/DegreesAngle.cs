@@ -3,7 +3,7 @@
     /// <summary>
     /// A class witch contains an angle in Degrees
     /// </summary>
-    sealed class DegreesAngle : Angle
+    public sealed class DegreesAngle : Angle
     {
         /// <summary>
         /// Creates angle with a value = 0

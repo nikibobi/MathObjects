@@ -1,0 +1,5 @@
+C:\Documents and Settings\user\My Documents\MathObjectsLib_Repository\MathObjectsLib\bin\Release\MathObjectsLib.dll
+C:\Documents and Settings\user\My Documents\MathObjectsLib_Repository\MathObjectsLib\bin\Release\MathObjectsLib.pdb
+C:\Documents and Settings\user\My Documents\MathObjectsLib_Repository\MathObjectsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\My Documents\MathObjectsLib_Repository\MathObjectsLib\obj\Release\MathObjectsLib.dll
+C:\Documents and Settings\user\My Documents\MathObjectsLib_Repository\MathObjectsLib\obj\Release\MathObjectsLib.pdb
